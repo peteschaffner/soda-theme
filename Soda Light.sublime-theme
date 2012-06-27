@@ -498,8 +498,8 @@
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["selected"]}],
         "color": [255, 255, 255],
-        "shadow_color": [34, 94, 145],
-        "shadow_offset": [0, 1]
+        "shadow_color": [146, 158, 187],
+        "shadow_offset": [0, 2]
     },
     // Sidebar file close
     {
